@@ -67,13 +67,13 @@ source agentx-venv/bin/activate
 pip install -r requirements.txt
 ```
 
-**3. Create .env file:
+**3. Create .env file:**
   1. Navigate to the `root_data` directory
   2. Create a new .env file within
-  3. within the .env file declare a `BOT_TOKEN` variable with your token like so
-     ```
-     BOT_TOKEN=1230294890ASDKMAWODIJS98ZUC98AJW89AJD89JAW89DJWA9DH7H
-     ```
+  3. within the .env file declare a `BOT_TOKEN` variable with your token like so:
+```
+BOT_TOKEN=1230294890ASDKMAWODIJS98ZUC98AJW89AJD89JAW89DJWA9DH7H
+```
 
 **3. Run the bot:**
 ```bash
